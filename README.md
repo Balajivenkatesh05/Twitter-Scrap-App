@@ -8,3 +8,10 @@ Then using snscrape module the tweets are scrapped as per the limit mentioned by
 
 The dataset is uploaded in the MongoDB
 ![image](https://user-images.githubusercontent.com/121443485/222349520-f29ead3a-be5b-487d-bdaa-61ccd886440c.png)
+
+Libraries and Versions:
+1. Streamlit (1.21.0)
+2. Pandas (2.0.0)
+3. Numpy (1.24.2)
+4. Pymongo (4.3.3)
+5. snscrape (0.6.2.20230320)
